@@ -18,11 +18,13 @@ This project contains a Python script (`0-lockboxes.py`) that implements a funct
 ## Usage
 
 To test the `canUnlockAll` function:
+
 - Make the script executable:
   ```bash
   chmod u+x main_0.py
   ```
 - Run the provided test script:
+
   ```bash
   ./main_0.py
   ```
