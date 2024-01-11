@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a Python script (`0-pascal_triangle.py`) that implements a function to generate Pascal's Triangle with 'n' rows. Additionally, a test script (`0-main.py`) is provided to demonstrate the functionality of the implemented function.
+This project contains a Python script (`0-pascal_triangle.py`) that implements a function to generate Pascal's Triangle with 'n' rows. Additionally, a test script (`0-main.py`) is provided to demonstrate the functionality of the implemented function.
 
 ## Files
 
