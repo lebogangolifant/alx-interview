@@ -33,9 +33,10 @@ To generate random log entries and calculate statistics:
     ```
 
 3. To stop the script use:
-  ```bash
-  (Ctrl+C)
-  ```
+
+   ```bash
+   (Ctrl+C)
+   ```
 (Ctrl+C) handles KeyboardInterrupt and print final statistics before exiting.  
 
 This will display statistics based on file sizes and HTTP status codes after every 10 lines or upon keyboard interruption.
