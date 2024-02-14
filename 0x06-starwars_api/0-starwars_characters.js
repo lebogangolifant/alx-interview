@@ -24,7 +24,6 @@ request(url, (error, response, body) => {
         return;
       }
 
-      // Parse character details from the response body and print the name
       console.log(JSON.parse(body).name);
     });
   });
