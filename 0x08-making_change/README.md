@@ -11,7 +11,7 @@ This project contains a Python script (`0-making_change.py`) that implements a f
 
 ## Concepts Covered
 
-- ~~ **Dynamic Programming**: The script demonstrates the use of dynamic programming to solve the coin change problem efficiently by breaking it down into smaller subproblems.~~
+- ~~**Dynamic Programming**: The script demonstrates the use of dynamic programming to solve the coin change problem efficiently by breaking it down into smaller subproblems.~~
 - **Greedy Algorithm**: The optimized implementation of the `makeChange` function uses a greedy algorithm to efficiently determine the fewest number of coins needed.
 - **Python Programming**: The implementation showcases basic Python programming concepts, including loops, conditionals, and lists.
 
